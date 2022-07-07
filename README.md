@@ -1,1 +1,3 @@
-# tic-tac-toe_ruby
+# Tic-Tac-Toe 
+
+Built using Ruby
